@@ -19,9 +19,4 @@ Opinion dynamics is a subfield of social network analysis that studies how indiv
 ## References
 - Proskurnikov, A. V., & Tempo, R. (2017). [A tutorial on modeling and analysis of dynamic social networks. Part I](https://doi.org/10.1016/j.arcontrol.2017.03.002). Annual Reviews in Control, 43, 65-79.
 
-## Contact
-For more information, you can reach me at [shubhamdaheriya930@gmail.com].
 
----
-
-Feel free to explore the materials and contact me if you have any questions or feedback.
