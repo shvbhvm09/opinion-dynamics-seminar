@@ -9,7 +9,7 @@ This seminar explores the various applications of opinion dynamics in different 
 ## Contents
 The repository includes the following materials:
 - **Report**: A detailed report on the topic.
-  - [Report.pdf](docs/Report.pdf)
+  - [Report.pdf](Seminar_Report_23M1089 (2))
 - **Presentation**: The PowerPoint presentation used during the seminar.
   - [Presentation.pptx](presentations/Presentation.pptx)
 
