@@ -9,9 +9,9 @@ This seminar explores the various applications of opinion dynamics in different 
 ## Contents
 The repository includes the following materials:
 - **Report**: A detailed report on the topic.
-  - [Report.pdf](Seminar_Report_23M1089 (2))
+  - [Report.pdf](docs/Seminar_Report_23M1089_(2).pdf)
 - **Presentation**: The PowerPoint presentation used during the seminar.
-  - [Presentation.pptx](presentations/Presentation.pptx)
+  - [Presentation.pdf](presentations/23m1089_seminar_presentation.pdf)
 
 ## Summary
 Opinion dynamics is a subfield of social network analysis that studies how individuals' opinions evolve over time within a social network. This seminar provides an in-depth analysis of several models and theoretical frameworks proposed by Proskurnikov and Tempo, highlighting their significance and practical applications.
